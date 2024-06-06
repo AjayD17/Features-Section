@@ -1,0 +1,31 @@
+.Main-heading {
+    color: #323f4b;
+    font-weight: bold;
+    font-style: "Roboto";
+    text-align: center;
+    font-size: 43px;
+}
+
+.Sub-heading {
+    color: #7b8794;
+    text-align: center;
+    font-style: "Roboto";
+    font-size: 25px;
+    margin-bottom: 8%;
+}
+
+.Design-img {
+    width: 25%;
+}
+
+.Topic-heading {
+    color: #323f4b;
+    margin-bottom: 5%;
+}
+
+.Description {
+    color: #7b8794;
+    font-size: 20px;
+    font-style: "Roboto";
+    font-weight: 500;
+}
